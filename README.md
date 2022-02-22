@@ -2,7 +2,9 @@
 This programme takes an .mp4 video as an input. The user then selects the faces that they want to keep, then the rest of the faces in the video will be blurred. The video that is blurred will then be saved in the local directory with output.mp4.
 
 <img width="200" src=https://github.com/scotgopal/VideoBlurring/blob/c3b317c122d90020cc57e70d9b2d7df146715e17/LanBlurred.jpg>
+
 ---
+
 - Understand the motivation and some use-cases of this project in our presentation. I've posted a recording [here](https://www.linkedin.com/posts/scotgopal_privacy-protectyourdata-deeplearning-activity-6716183278447140864-te6K) on LinkedIn.
 - Checkout the demo [here](https://www.linkedin.com/posts/scotgopal_deeplearning-machinelearning-artificialintelligenceai-activity-6724350202674868225-0H38). It's on LinkedIn as well.
 
