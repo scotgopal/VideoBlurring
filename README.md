@@ -1,7 +1,7 @@
 # BlurMe Beta v1.0
 This programme takes an .mp4 video as an input. The user then selects the faces that they want to keep, then the rest of the faces in the video will be blurred. The video that is blurred will then be saved in the local directory with output.mp4.
 
-<img width="200" src=https://www.facepixelizer.com/facepixelizerHelpImages/LanBlurred.jpg>
+<img width="200" src=https://github.com/scotgopal/VideoBlurring/blob/c3b317c122d90020cc57e70d9b2d7df146715e17/LanBlurred.jpg>
 
 ---
 ## Steps
